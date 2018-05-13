@@ -1,0 +1,29 @@
+D:\Miharbis binder\Miharbis binder\bin\Debug\Binder Soft.exe
+D:\Miharbis binder\Miharbis binder\bin\Debug\Binder Soft.pdb
+D:\Miharbis binder\Miharbis binder\bin\Debug\Binder Soft.xml
+D:\Miharbis binder\Miharbis binder\bin\Debug\Dissembler Lib.dll
+D:\Miharbis binder\Miharbis binder\obj\Debug\ResolveAssemblyReference.cache
+D:\Miharbis binder\Miharbis binder\obj\Debug\WindowsApplication1.Resources.resources
+D:\Miharbis binder\Miharbis binder\obj\Debug\Binder Soft.exe
+D:\Miharbis binder\Miharbis binder\obj\Debug\Binder Soft.xml
+D:\Miharbis binder\Miharbis binder\obj\Debug\Binder Soft.pdb
+D:\Miharbis binder\Miharbis binder\obj\Debug\AK's Binder Soft.vbproj.GenerateResource.Cache
+D:\Miharbis binder\Miharbis binder\obj\Debug\WindowsApplication1.binder.resources
+D:\Miharbis binder\Miharbis binder\bin\Debug\Binder Soft.exe.manifest
+D:\Miharbis binder\Miharbis binder\bin\Debug\Binder Soft.application
+D:\Miharbis binder\Miharbis binder\obj\Debug\Binder Soft.TrustInfo.xml
+D:\Miharbis binder\Miharbis binder\obj\Debug\Binder Soft.exe.manifest
+D:\Miharbis binder\Miharbis binder\obj\Debug\Binder Soft.application
+C:\Users\Administrator.RP120375A\Desktop\Miharbis binder\Miharbis binder\obj\Debug\Binder Soft.exe
+C:\Users\Administrator.RP120375A\Desktop\Miharbis binder\Miharbis binder\obj\Debug\Binder Soft.xml
+C:\Users\Administrator.RP120375A\Desktop\Miharbis binder\Miharbis binder\obj\Debug\Binder Soft.pdb
+C:\Users\Administrator.RP120375A\Desktop\Miharbis binder\Miharbis binder\obj\Debug\WindowsApplication1.binder.resources
+C:\Users\Administrator.RP120375A\Desktop\Miharbis binder\Miharbis binder\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\Administrator.RP120375A\Desktop\Miharbis binder\Miharbis binder\obj\Debug\AK's Binder Soft.vbproj.GenerateResource.Cache
+F:\Users\Administrator.RP120375A\Desktop\Coding projects\Miharbis binder\Miharbis binder\obj\Debug\Binder Soft.exe
+F:\Users\Administrator.RP120375A\Desktop\Coding projects\Miharbis binder\Miharbis binder\obj\Debug\Binder Soft.xml
+F:\Users\Administrator.RP120375A\Desktop\Coding projects\Miharbis binder\Miharbis binder\obj\Debug\Binder Soft.pdb
+F:\Users\Administrator.RP120375A\Desktop\Coding projects\Miharbis binder\Miharbis binder\obj\Debug\ResolveAssemblyReference.cache
+F:\Users\Administrator.RP120375A\Desktop\Coding projects\Miharbis binder\Miharbis binder\obj\Debug\WindowsApplication1.binder.resources
+F:\Users\Administrator.RP120375A\Desktop\Coding projects\Miharbis binder\Miharbis binder\obj\Debug\WindowsApplication1.Resources.resources
+F:\Users\Administrator.RP120375A\Desktop\Coding projects\Miharbis binder\Miharbis binder\obj\Debug\AK's Binder Soft.vbproj.GenerateResource.Cache

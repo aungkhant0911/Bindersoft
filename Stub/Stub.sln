@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Basic Express 2008
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Stub", "Stub\Stub.vbproj", "{D982725A-F59B-4008-8C04-6E8B374658D8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D982725A-F59B-4008-8C04-6E8B374658D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D982725A-F59B-4008-8C04-6E8B374658D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D982725A-F59B-4008-8C04-6E8B374658D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D982725A-F59B-4008-8C04-6E8B374658D8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

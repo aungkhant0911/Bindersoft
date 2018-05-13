@@ -1,0 +1,30 @@
+D:\Miharbis binder\Stub\Stub\bin\Debug\Stub.exe
+D:\Miharbis binder\Stub\Stub\bin\Debug\Stub.pdb
+D:\Miharbis binder\Stub\Stub\bin\Debug\Stub.xml
+D:\Miharbis binder\Stub\Stub\obj\Debug\ResolveAssemblyReference.cache
+D:\Miharbis binder\Stub\Stub\obj\Debug\WindowsApplication2.Form1.resources
+D:\Miharbis binder\Stub\Stub\obj\Debug\WindowsApplication2.Resources.resources
+D:\Miharbis binder\Stub\Stub\obj\Debug\Stub.vbproj.GenerateResource.Cache
+D:\Miharbis binder\Stub\Stub\obj\Debug\Stub.exe
+D:\Miharbis binder\Stub\Stub\obj\Debug\Stub.xml
+D:\Miharbis binder\Stub\Stub\obj\Debug\Stub.pdb
+D:\Miharbis binder\Stub\Stub\bin\Debug\Stub.exe.manifest
+D:\Miharbis binder\Stub\Stub\bin\Debug\Stub.application
+D:\Miharbis binder\Stub\Stub\obj\Debug\Stub.TrustInfo.xml
+D:\Miharbis binder\Stub\Stub\obj\Debug\Stub.exe.manifest
+D:\Miharbis binder\Stub\Stub\obj\Debug\Stub.application
+F:\Users\Administrator.RP120375A\Desktop\Coding projects\Miharbis binder\Stub\Stub\obj\Debug\Stub.xml
+F:\Users\Administrator.RP120375A\Desktop\Coding projects\Miharbis binder\Stub\Stub\obj\Debug\Stub.pdb
+F:\Users\Administrator.RP120375A\Desktop\Coding projects\Miharbis binder\Stub\Stub\bin\Debug\Stub.exe.manifest
+F:\Users\Administrator.RP120375A\Desktop\Coding projects\Miharbis binder\Stub\Stub\bin\Debug\Stub.application
+F:\Users\Administrator.RP120375A\Desktop\Coding projects\Miharbis binder\Stub\Stub\bin\Debug\Stub.exe
+F:\Users\Administrator.RP120375A\Desktop\Coding projects\Miharbis binder\Stub\Stub\bin\Debug\Stub.pdb
+F:\Users\Administrator.RP120375A\Desktop\Coding projects\Miharbis binder\Stub\Stub\bin\Debug\Stub.xml
+F:\Users\Administrator.RP120375A\Desktop\Coding projects\Miharbis binder\Stub\Stub\obj\Debug\ResolveAssemblyReference.cache
+F:\Users\Administrator.RP120375A\Desktop\Coding projects\Miharbis binder\Stub\Stub\obj\Debug\WindowsApplication2.Form1.resources
+F:\Users\Administrator.RP120375A\Desktop\Coding projects\Miharbis binder\Stub\Stub\obj\Debug\WindowsApplication2.Resources.resources
+F:\Users\Administrator.RP120375A\Desktop\Coding projects\Miharbis binder\Stub\Stub\obj\Debug\Stub.vbproj.GenerateResource.Cache
+F:\Users\Administrator.RP120375A\Desktop\Coding projects\Miharbis binder\Stub\Stub\obj\Debug\Stub.TrustInfo.xml
+F:\Users\Administrator.RP120375A\Desktop\Coding projects\Miharbis binder\Stub\Stub\obj\Debug\Stub.exe.manifest
+F:\Users\Administrator.RP120375A\Desktop\Coding projects\Miharbis binder\Stub\Stub\obj\Debug\Stub.application
+F:\Users\Administrator.RP120375A\Desktop\Coding projects\Miharbis binder\Stub\Stub\obj\Debug\Stub.exe

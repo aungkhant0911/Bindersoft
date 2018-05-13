@@ -1,0 +1,25 @@
+D:\Miharbis binder\Stub\Stub\bin\Debug\Stub.exe
+D:\Miharbis binder\Stub\Stub\bin\Debug\Stub.pdb
+D:\Miharbis binder\Stub\Stub\bin\Debug\Stub.xml
+D:\Miharbis binder\Stub\Stub\obj\Release\ResolveAssemblyReference.cache
+D:\Miharbis binder\Stub\Stub\obj\Release\WindowsApplication2.Form1.resources
+D:\Miharbis binder\Stub\Stub\obj\Release\WindowsApplication2.Resources.resources
+D:\Miharbis binder\Stub\Stub\obj\Release\Stub.vbproj.GenerateResource.Cache
+D:\Miharbis binder\Stub\Stub\obj\Release\Stub.exe
+D:\Miharbis binder\Stub\Stub\obj\Release\Stub.xml
+D:\Miharbis binder\Stub\Stub\obj\Release\Stub.pdb
+F:\Users\Administrator.RP120375A\Desktop\Coding projects\Miharbis binder\Stub\Stub\bin\Debug\Stub.exe.manifest
+F:\Users\Administrator.RP120375A\Desktop\Coding projects\Miharbis binder\Stub\Stub\bin\Debug\Stub.application
+F:\Users\Administrator.RP120375A\Desktop\Coding projects\Miharbis binder\Stub\Stub\bin\Debug\Stub.exe
+F:\Users\Administrator.RP120375A\Desktop\Coding projects\Miharbis binder\Stub\Stub\bin\Debug\Stub.pdb
+F:\Users\Administrator.RP120375A\Desktop\Coding projects\Miharbis binder\Stub\Stub\bin\Debug\Stub.xml
+F:\Users\Administrator.RP120375A\Desktop\Coding projects\Miharbis binder\Stub\Stub\obj\Release\ResolveAssemblyReference.cache
+F:\Users\Administrator.RP120375A\Desktop\Coding projects\Miharbis binder\Stub\Stub\obj\Release\WindowsApplication2.Form1.resources
+F:\Users\Administrator.RP120375A\Desktop\Coding projects\Miharbis binder\Stub\Stub\obj\Release\WindowsApplication2.Resources.resources
+F:\Users\Administrator.RP120375A\Desktop\Coding projects\Miharbis binder\Stub\Stub\obj\Release\Stub.vbproj.GenerateResource.Cache
+F:\Users\Administrator.RP120375A\Desktop\Coding projects\Miharbis binder\Stub\Stub\obj\Release\Stub.TrustInfo.xml
+F:\Users\Administrator.RP120375A\Desktop\Coding projects\Miharbis binder\Stub\Stub\obj\Release\Stub.exe.manifest
+F:\Users\Administrator.RP120375A\Desktop\Coding projects\Miharbis binder\Stub\Stub\obj\Release\Stub.application
+F:\Users\Administrator.RP120375A\Desktop\Coding projects\Miharbis binder\Stub\Stub\obj\Release\Stub.exe
+F:\Users\Administrator.RP120375A\Desktop\Coding projects\Miharbis binder\Stub\Stub\obj\Release\Stub.xml
+F:\Users\Administrator.RP120375A\Desktop\Coding projects\Miharbis binder\Stub\Stub\obj\Release\Stub.pdb
