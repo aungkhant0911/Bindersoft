@@ -8,12 +8,13 @@ The sequential binding nature of this utility allows for procedural execution of
 
 # Requirements
 
-.Net Runtime 3.5
-Visual Basic.Net 2008 or later is required to edit source.
+ - .Net Runtime 3.0
+ - Visual Basic.Net 2008 or later is required to edit source.
 
 
 
 # How it works?
+
   - Builder is used to bind files. The following diagram provides the user interaction and what it takes to get a single executable file, called Stub.
   
   ![Capturing](/builder_workflow.jpg)
@@ -25,4 +26,8 @@ Visual Basic.Net 2008 or later is required to edit source.
 
 
 
-#
+# Demo
+
+Click the following thumbnail to see the demonstration.
+
+[![Demonstration of BinderSoft](http://img.youtube.com/vi/89upnww_Z60/0.jpg)](https://youtu.be/89upnww_Z60 )
