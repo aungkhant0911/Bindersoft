@@ -30,4 +30,4 @@ The sequential binding nature of this utility allows for procedural execution of
 
 Click the following thumbnail to see the demonstration.
 
-[![Demonstration of BinderSoft](http://img.youtube.com/vi/89upnww_Z60/0.jpg)](https://youtu.be/89upnww_Z60 )
+[![Demonstration of BinderSoft](https://github.com/aungkhant0911/Bindersoft/blob/master/application.JPG)](https://youtu.be/89upnww_Z60 )
