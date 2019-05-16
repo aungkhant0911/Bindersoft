@@ -13,7 +13,7 @@ The sequential binding nature of this utility allows for procedural execution of
 
 
 
-# How it works?
+# Application Workflow
 
   - Builder is used to bind files. The following diagram provides the user interaction and what it takes to get a single executable file, called Stub.
   
@@ -26,7 +26,7 @@ The sequential binding nature of this utility allows for procedural execution of
 
 
 
-# Demo
+# How it works?
 
 Click the following thumbnail to see the demonstration.
 
