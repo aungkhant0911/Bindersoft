@@ -1,7 +1,6 @@
-This program has two components: builder and stub. The builder obfuscates a desired program/file by encrypting it, and then attaches the resulting file to the "stub".
+# About
 
-The stub, upon running, reads the attached part, decrypts back into its original form, saves it into desired location onto the disk and then invokes it.
+A multi-files combiner application written in VB.Net a while ago. Been in a situation where I wished I could treat as many programs or files of any type as a single one. Not only that but this program also allows one to keep files encrypted, granting portability and not have to worry about the threat of antivirus software.
 
-Do Not Run "stub" alone, it won't work.
 
-Whatever MS .Net Framework that comes with VB.Net 2008 or later is required to run the program.
+
