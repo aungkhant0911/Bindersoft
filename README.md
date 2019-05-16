@@ -4,3 +4,21 @@ A multi-files combiner application written in VB.Net a while ago. Been in a situ
 
 
 
+# Requirements
+
+.Net Runtime 3.5
+Visual Basic.Net 2008 or later is required to edit source.
+
+
+
+# How it works?
+  - Builder is used to bind files. The following diagram provides the user interaction and what it takes to get a single executable file, called Stub.
+  dfdfd
+  
+  
+  - Once the Stub has been created, it can then be executed, upon which one can get back all the original files.
+  
+
+
+
+#
